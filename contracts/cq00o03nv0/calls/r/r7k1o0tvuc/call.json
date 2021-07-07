@@ -1,0 +1,11 @@
+{
+  "id": "r7k1o0tvuc",
+  "time": "0001-01-01T00:00:00Z",
+  "contract_id": "cq00o03nv0",
+  "method": "dosomething",
+  "payload": {
+    "something": "xzcxzcxzc"
+  },
+  "msatoshi": 12000,
+  "cost": 1250
+}
