@@ -8,4 +8,5 @@ function dosomething ()
   end
 
   contract.state.something = call.payload.something
+  contract.state.edited = true
 end
