@@ -1,6 +1,23 @@
 {
   "closed": {},
   "open": {
+    "l41i4vpd9": {
+      "balance": 127726,
+      "created": 1629655285,
+      "date": 1629838800,
+      "factor": 0.2,
+      "nexchanges": 0,
+      "shares": {
+        "no": {
+          "02bfcc528f7782f00722f8f9e1e262c409d528b4149d57640e550f6d6c06b8443e": 1
+        },
+        "yes": {
+          "02bfcc528f7782f00722f8f9e1e262c409d528b4149d57640e550f6d6c06b8443e": 1
+        }
+      },
+      "terms": "This market will resolve to YES very soon.",
+      "votes": {}
+    },
     "yg5c4fuws": {
       "balance": 127726,
       "created": 1629654145,
