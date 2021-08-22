@@ -2,17 +2,18 @@
   "closed": {},
   "open": {
     "l41i4vpd9": {
-      "balance": 127726,
+      "balance": 210381,
       "created": 1629655285,
       "date": 1629838800,
       "factor": 0.2,
-      "nexchanges": 0,
+      "lastexchange": 1629655307,
+      "nexchanges": 1,
       "shares": {
         "no": {
           "02bfcc528f7782f00722f8f9e1e262c409d528b4149d57640e550f6d6c06b8443e": 1
         },
         "yes": {
-          "02bfcc528f7782f00722f8f9e1e262c409d528b4149d57640e550f6d6c06b8443e": 1
+          "02bfcc528f7782f00722f8f9e1e262c409d528b4149d57640e550f6d6c06b8443e": 2
         }
       },
       "terms": "This market will resolve to YES very soon.",
