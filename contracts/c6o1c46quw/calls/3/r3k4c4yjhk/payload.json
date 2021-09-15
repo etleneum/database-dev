@@ -1,5 +1,0 @@
-{
-  "factor": 0.2,
-  "terms": "People will bet on this resolving to a \"yes\" or \"no\". To bet means to buy a share of \"yes\" or a share of \"no\". A share may cost anything between 0 and 100 satoshis depending on the state of the market. If the event happens, \"yes\" wins, otherwise \"no\" wins. For each winning share the owner of that share gets paid 100 satoshis.",
-  "date": "2021-08-24"
-}
