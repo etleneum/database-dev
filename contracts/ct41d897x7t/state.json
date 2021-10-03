@@ -50,7 +50,7 @@
   "vc3789lx12": {
     "auction_item": "some item",
     "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
-    "current_top_bid": 8000,
+    "current_top_bid": 10000,
     "end_datetime": 1634493513,
     "min_step": 0,
     "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
