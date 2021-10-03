@@ -46,5 +46,13 @@
     "end_datetime": 1633705548,
     "min_step": 1000000,
     "top_bider_id": "049c6c6650db49746c7dc02e140b40cce44c3f7f6a47eb73131f692faf7d207edc68706a6bb10c1b7efb7489047def1b36e222c58d632a4fe4120f048d26274329"
+  },
+  "vc3789lx12": {
+    "auction_item": "some item",
+    "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
+    "current_top_bid": 0,
+    "end_datetime": 1634493513,
+    "min_step": 0,
+    "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
   }
 }
