@@ -2,7 +2,7 @@
   "1441896q5s": {
     "auction_item": "Bitcoin Art\n---\ntest",
     "creator_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005",
-    "current_top_bid": 2400000,
+    "current_top_bid": 2500000,
     "end_datetime": 1633618921,
     "min_step": 100000,
     "state": true,
