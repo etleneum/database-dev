@@ -1,0 +1,6 @@
+{
+  "auction_duration_days": 1,
+  "min_step": 810,
+  "starting_bid": 1111,
+  "auction_item": "test\n---\ntest"
+}
