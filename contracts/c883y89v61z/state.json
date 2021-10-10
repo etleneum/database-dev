@@ -29,7 +29,7 @@
   "3k8989cfcj": {
     "auction_item": "Your id on this auction item\n---\nThe winner will get their Etleneum account id printed in this auction item after it ends.",
     "creator_id": "04a64a73f74224c0d1d9a32e1496983aef0bad1a08e193334ee6e45f01f10ab5209456b98db2d21ac52a10ce7f58f292708250a59782f490284275f5fe958ecea7",
-    "current_top_bid": 2000000,
+    "current_top_bid": 3000000,
     "end_datetime": 1634457980,
     "min_step": 1000000,
     "state": true,
