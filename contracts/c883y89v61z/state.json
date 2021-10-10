@@ -26,6 +26,15 @@
     "state": true,
     "top_bider_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef"
   },
+  "a08589u37j": {
+    "auction_item": "Bitcoin Art\n---\nArt Art https://bitcoin.org/img/home/bitcoin-img.svg",
+    "creator_id": "04a64a73f74224c0d1d9a32e1496983aef0bad1a08e193334ee6e45f01f10ab5209456b98db2d21ac52a10ce7f58f292708250a59782f490284275f5fe958ecea7",
+    "current_top_bid": 100000,
+    "end_datetime": 1633932657,
+    "min_step": 100000,
+    "state": true,
+    "top_bider_id": "04a64a73f74224c0d1d9a32e1496983aef0bad1a08e193334ee6e45f01f10ab5209456b98db2d21ac52a10ce7f58f292708250a59782f490284275f5fe958ecea7"
+  },
   "n47w89agcc": {
     "auction_item": "test 4\n---\ntest 4",
     "creator_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef",
