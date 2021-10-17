@@ -17,6 +17,15 @@
     "state": true,
     "top_bider_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef"
   },
+  "201jg9pstc": {
+    "auction_item": "test alias 2",
+    "creator_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005",
+    "current_top_bid": 11000,
+    "end_datetime": 1634483849.4,
+    "min_step": 11000,
+    "state": true,
+    "top_bider_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005"
+  },
   "2o8789ykq": {
     "auction_item": "El Salvador Diario\n---\nJoin chat https://t.me/simple_auction  https://i.imgur.com/J8PjmhQ.jpg",
     "creator_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005",
