@@ -143,6 +143,15 @@
     "state": true,
     "top_bider_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005"
   },
+  "tc1hg9v9wl": {
+    "auction_item": "test alias",
+    "creator_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005",
+    "current_top_bid": 11000,
+    "end_datetime": 1634483780.4,
+    "min_step": 11000,
+    "state": true,
+    "top_bider_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005"
+  },
   "xs7s896in9": {
     "auction_item": "test 2\n---\ntest 2",
     "creator_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef",
