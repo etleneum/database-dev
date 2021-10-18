@@ -1,4 +1,12 @@
 {
+  "2g4eg9r3ca": {
+    "auction_item": "18 Oct 1",
+    "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
+    "current_top_bid": 1000,
+    "end_datetime": 1634663221,
+    "min_step": 1000,
+    "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
+  },
   "4o1f89zajd": {
     "auction_item": "some",
     "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
