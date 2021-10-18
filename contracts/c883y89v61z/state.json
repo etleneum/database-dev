@@ -169,5 +169,14 @@
     "min_step": 1000000,
     "state": true,
     "top_bider_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef"
+  },
+  "zk3og99vgy": {
+    "auction_item": "test new\n---\ndetails here",
+    "creator_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005",
+    "current_top_bid": 116000,
+    "end_datetime": 1634649968,
+    "min_step": 121000,
+    "state": true,
+    "top_bider_id": "04475eeea418ad29abd68a5978539663bc6a3ff39940db1610fb466825f4b81329f10759f82e00c4b812e5d3fc09c3bf29dba517f7d79c454778c84d0149868005"
   }
 }
