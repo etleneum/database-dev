@@ -78,5 +78,13 @@
     "end_datetime": 1634493513,
     "min_step": 0,
     "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
+  },
+  "xc3zg91au5": {
+    "auction_item": "18 Oct",
+    "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
+    "current_top_bid": 1000,
+    "end_datetime": 1634571048,
+    "min_step": 1000,
+    "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
   }
 }
