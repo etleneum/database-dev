@@ -1,1 +1,12 @@
-{}
+{
+  "pk1z9ja1": {
+    "auction_item": "test item 1",
+    "creator_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef",
+    "current_top_bid": 11000,
+    "end_datetime": 1634653285.4,
+    "min_step": 11000,
+    "starting_bid": 11000,
+    "state": true,
+    "top_bider_id": "04ed91062caaf4cc9294afd513c3273a284d79e166161070ccd7c6c40ee9ef7b15d51999d70b90cdd976a5b89af52b5aebffd88816dde152c12c5eccedf96e20ef"
+  }
+}
