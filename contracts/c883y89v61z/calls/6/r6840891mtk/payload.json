@@ -1,6 +1,0 @@
-{
-  "auction_duration_days": 1,
-  "min_step": 100,
-  "starting_bid": 1000,
-  "auction_item": "Bitcoin Art\n---\ntest"
-}
