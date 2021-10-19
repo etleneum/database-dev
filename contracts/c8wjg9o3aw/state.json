@@ -1,6 +1,15 @@
 {
   "closed": {
     "_": 0,
+    "dcvg92ptz": {
+      "auction_item": "oct 19 4",
+      "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
+      "current_top_bid": 1000,
+      "end_datetime": 1634645774.64,
+      "min_step": 1000,
+      "state": false,
+      "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
+    },
     "rsog9ffjl": {
       "auction_item": "oct 19 1",
       "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
@@ -19,15 +28,6 @@
       "state": false,
       "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
     }
-  },
-  "dcvg92ptz": {
-    "auction_item": "oct 19 4",
-    "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
-    "current_top_bid": 1000,
-    "end_datetime": 1634645774.64,
-    "min_step": 1000,
-    "state": true,
-    "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
   },
   "zcmg9j5f0": {
     "auction_item": "oct 19 0",
