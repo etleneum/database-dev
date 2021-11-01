@@ -32,7 +32,7 @@
   "801of9ep3x": {
     "auction_item": "test",
     "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
-    "current_top_bid": 4000,
+    "current_top_bid": 5000,
     "end_datetime": 1635854634,
     "min_step": 1000,
     "starting_bid": 1000,
