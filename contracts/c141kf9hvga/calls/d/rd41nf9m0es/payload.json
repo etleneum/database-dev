@@ -1,0 +1,6 @@
+{
+  "auction_item": "test",
+  "min_step": "1",
+  "auction_duration_days": "1",
+  "starting_bid": "1"
+}
