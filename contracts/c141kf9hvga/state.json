@@ -68,5 +68,15 @@
     "starting_bid": 1000,
     "state": true,
     "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
+  },
+  "yg24f9nyzq": {
+    "auction_item": "test",
+    "creator_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d",
+    "current_top_bid": 1000,
+    "end_datetime": 1635774019.000864,
+    "min_step": 1000,
+    "starting_bid": 1000,
+    "state": true,
+    "top_bider_id": "02d458be2a9e4da85761d4b54221aa6323a91975c966eac139211bded8f1a9b66d"
   }
 }
