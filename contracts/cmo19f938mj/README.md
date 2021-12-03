@@ -1,1 +1,0 @@
-Inspired by https://www.weavesavings.co/blog/savings-groups-and-global-momentum
