@@ -3,12 +3,18 @@
     "auction_duration_days": 0.001,
     "auction_item": "test",
     "creator_id": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8",
-    "end_datetime": 0,
-    "lottery_fund": 0,
-    "started": false,
+    "end_datetime": 1643748343.4,
+    "lottery_fund": 25000000,
+    "started": true,
     "state": true,
     "ticket_price": 5000000,
-    "tickets": {},
+    "tickets": {
+      "dk2q89ft9v": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8",
+      "dk2r894gab": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8",
+      "dk2s898hvv": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8",
+      "dk2t89itev": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8",
+      "dk2u8979rw": "04c57eb9cc818ddc2eca1fca94cff1449edab22b9f94d2341d2e4e6a2ca639c53f5c3f807f8201a5e206077fa90ce41862eb789e8c20857fe05c7a062e9f64ecf8"
+    },
     "tickets_to_start": 5,
     "winner_id": ""
   }
