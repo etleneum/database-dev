@@ -1,0 +1,6 @@
+{
+  "tickets_to_start": "2",
+  "auction_item": "test",
+  "ticket_price": "5000",
+  "auction_duration_days": "0.001"
+}
