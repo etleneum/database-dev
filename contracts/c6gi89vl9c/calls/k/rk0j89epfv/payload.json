@@ -1,6 +1,0 @@
-{
-  "auction_duration_days": "0.001",
-  "tickets_to_start": "2",
-  "ticket_price": "5000",
-  "auction_item": "test"
-}
