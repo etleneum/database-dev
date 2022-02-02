@@ -3,12 +3,14 @@
     "auction_duration_days": 2,
     "auction_item": "test",
     "creator_id": "032f30d5c7d8287dd2ddd8e0aaeba5d76505230cdab4547f3183086314384574f8",
-    "end_datetime": 0,
-    "lottery_fund": 1000000,
-    "started": false,
+    "end_datetime": 1643998801,
+    "lottery_fund": 3000000,
+    "started": true,
     "state": true,
     "ticket_price": 1000000,
     "tickets": [
+      "032f30d5c7d8287dd2ddd8e0aaeba5d76505230cdab4547f3183086314384574f8",
+      "032f30d5c7d8287dd2ddd8e0aaeba5d76505230cdab4547f3183086314384574f8",
       "032f30d5c7d8287dd2ddd8e0aaeba5d76505230cdab4547f3183086314384574f8"
     ],
     "tickets_to_start": 3,
