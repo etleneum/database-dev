@@ -7,6 +7,8 @@
     "lifetime": 600,
     "owner": "042e66023a1b5594b7a492b9582eb7e5b99ebf1b24b6db2b14decd675249fe9a8ab5387674d78139fd2a9357c77d1d94301ee307a8f89ea9be361dc06ecedf5bbf",
     "title": "Test One",
-    "voters": {}
+    "voters": {
+      "042e66023a1b5594b7a492b9582eb7e5b99ebf1b24b6db2b14decd675249fe9a8ab5387674d78139fd2a9357c77d1d94301ee307a8f89ea9be361dc06ecedf5bbf": 2
+    }
   }
 }
