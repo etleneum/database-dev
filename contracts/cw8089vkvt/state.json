@@ -4,11 +4,12 @@
     "auction_item": "Great Test\n---\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/800px-Satoshi_Nakamoto.jpg",
     "creator_id": "0298437c5c2bd680cb9476db37a4068097087b4f09e863f32fddc0ce77accdac8c",
     "end_datetime": 0,
-    "lottery_fund": 21000,
+    "lottery_fund": 42000,
     "started": false,
     "state": true,
     "ticket_price": 21000,
     "tickets": [
+      "0298437c5c2bd680cb9476db37a4068097087b4f09e863f32fddc0ce77accdac8c",
       "0298437c5c2bd680cb9476db37a4068097087b4f09e863f32fddc0ce77accdac8c"
     ],
     "tickets_to_start": 21,
