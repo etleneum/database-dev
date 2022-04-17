@@ -29,11 +29,12 @@
     "auction_item": "test loto\n---\nMaybe some description \nMaybe link to item photo.jpg or .png imgur or telegra.ph preferable,\nMaybe link to detailed item desccription on telegra.ph\nSeller: telegram handle / email / twitter",
     "creator_id": "03c523e59d08cf580076620f87d7e7d6986f67be3a7f121c9d02061fd369a8b709",
     "end_datetime": 0,
-    "lottery_fund": 1000000,
+    "lottery_fund": 1500000,
     "started": false,
     "state": true,
     "ticket_price": 500000,
     "tickets": [
+      "03c523e59d08cf580076620f87d7e7d6986f67be3a7f121c9d02061fd369a8b709",
       "03c523e59d08cf580076620f87d7e7d6986f67be3a7f121c9d02061fd369a8b709",
       "03c523e59d08cf580076620f87d7e7d6986f67be3a7f121c9d02061fd369a8b709"
     ],
