@@ -1,0 +1,6 @@
+{
+  "auction_duration_days": 7,
+  "tickets_to_start": 21,
+  "ticket_price": 21,
+  "auction_item": "Great Test\n---\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/800px-Satoshi_Nakamoto.jpg"
+}

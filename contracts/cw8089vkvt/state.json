@@ -1,4 +1,17 @@
 {
+  "201g89wq2w": {
+    "auction_duration_days": 7,
+    "auction_item": "Great Test\n---\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/800px-Satoshi_Nakamoto.jpg",
+    "creator_id": "0298437c5c2bd680cb9476db37a4068097087b4f09e863f32fddc0ce77accdac8c",
+    "end_datetime": 0,
+    "lottery_fund": 0,
+    "started": false,
+    "state": true,
+    "ticket_price": 21000,
+    "tickets": {},
+    "tickets_to_start": 21,
+    "winner_id": ""
+  },
   "a0689gdij": {
     "auction_duration_days": 1,
     "auction_item": "12312",
