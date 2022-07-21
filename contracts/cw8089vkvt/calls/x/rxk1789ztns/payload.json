@@ -1,6 +1,0 @@
-{
-  "auction_duration_days": 1,
-  "tickets_to_start": 10,
-  "ticket_price": 500,
-  "auction_item": "test loto\n---\nMaybe some description \nMaybe link to item photo.jpg or .png imgur or telegra.ph preferable,\nMaybe link to detailed item desccription on telegra.ph\nSeller: telegram handle / email / twitter"
-}
