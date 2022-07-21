@@ -1,6 +1,0 @@
-{
-  "auction_duration_days": 1,
-  "min_step": 121,
-  "starting_bid": 121,
-  "auction_item": "test\n---\nMaybe some description \nMaybe link to item photo.jpg or .png imgur or telegra.ph preferable,\nMaybe link to detailed item desccription on telegra.ph\nSeller: telegram handle / email / twitter"
-}
